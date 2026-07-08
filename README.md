@@ -8,8 +8,8 @@ I am a Data Analyst focused on writing clean, structured code and transforming r
 
 | Language / Tool | What I Use It For |
 | :--- | :--- |
-| *Python* 🐍 | Data manipulation (Pandas, NumPy) |
-| *SQL* 🗄️ | Database querying and data extraction |
-| *Tableau* 📊 | Designing interactive business dashboards |
-| *Jupyter* 📓 | Exploratory data analysis and documentation |
+| *Python*  | Data manipulation (Pandas, NumPy) |
+| *SQL*  | Database querying and data extraction |
+| *Tableau*  | Designing interactive business dashboards |
+| *Jupyter*  | Exploratory data analysis and documentation |
     
